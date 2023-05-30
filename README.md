@@ -1,4 +1,5 @@
-# GithubCV
+# GithubCV - System Architecture Only, Developers please jump in!
+
 Chrome Extension to Create A Detailed GitHub CV Based on User Profile
 
 Overview:
